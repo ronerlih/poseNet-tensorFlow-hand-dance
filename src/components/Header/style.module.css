@@ -1,0 +1,8 @@
+.header {
+   position: absolute;
+   width:100%;
+   text-align: left;
+   padding:5px;
+   color: white;
+   top: 0px;
+}
